@@ -1,0 +1,6 @@
+numpy
+py_vollib
+matplotlib
+scipy
+pandas
+IPython
